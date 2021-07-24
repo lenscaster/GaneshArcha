@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
+  <img border-radius: 15px src="Ponnus.png" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Archa Mwol" src="https://img.shields.io/badge/Archa Mwol-yellow?colorA=%50ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
